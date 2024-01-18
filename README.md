@@ -7,17 +7,17 @@ Welcome to my GitHub repository! Here, you'll find a collection of my favorite m
 ## Favorite Movies
 
 ### 1.Avengers: Infinity War (2018)
-*Director: Frank Darabont*
+*Director:  Anthony and Joe Russo*
 
-![GitHub Logo](https://images.bauerhosting.com/legacy/media/61f3/e8d0/05e8/5530/559b/af43/infinity-war-poster-crop.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80)
-
+![Avengers: Infinity War](https://images.bauerhosting.com/legacy/media/61f3/e8d0/05e8/5530/559b/af43/infinity-war-poster-crop.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80)
 
 *Description: the Avengers and the Guardians of the Galaxy attempt to stop Thanos from collecting the six powerful Infinity Stones as part of his quest to kill half of all life in the universe.*
 
-### 2. Inception (2010)
+### 2.Predestination (2014)
 *Director: Christopher Nolan*
 
-https://images.app.goo.gl/2NPsmHnkNwDCEU666
+![Predestination]([https://example.com/path/to/your/image.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rottentomatoes.com%2Fm%2Fpredestination&psig=AOvVaw2wayTmV4pIhUQfmEurwA7v&ust=1705658117787000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjR4e7V5oMDFQAAAAAdAAAAABAD))
+
 
 *Description: A mind-bending journey through dreams, reality, and the subconscious, Inception is a cinematic masterpiece that keeps you on the edge of your seat.*
 
