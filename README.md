@@ -11,7 +11,7 @@ Welcome to my GitHub repository! Here, you'll find a collection of my favorite m
 
 ![Avengers: Infinity War](https://images.bauerhosting.com/legacy/media/61f3/e8d0/05e8/5530/559b/af43/infinity-war-poster-crop.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80)
 
- #Description: 
+# Description: 
 the Avengers and the Guardians of the Galaxy attempt to stop Thanos from collecting the six powerful Infinity Stones as part of his quest to kill half of all life in the universe.*
 
 ### 2.Predestination (2014)
@@ -20,7 +20,7 @@ the Avengers and the Guardians of the Galaxy attempt to stop Thanos from collect
 ![Predestination](https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11111906_v_h9_bc.jpg)
 
 
- #Description:
+# Description:
  A Temporal Agent (Ethan Hawke) is sent on an intricate series of time-travel journeys designed to prevent future killers from committing their crimes.*
 ## Birthday Celebration
 
