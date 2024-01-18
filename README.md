@@ -12,7 +12,7 @@ Welcome to my GitHub repository! Here, you'll find a collection of my favorite m
 ![Avengers: Infinity War](https://images.bauerhosting.com/legacy/media/61f3/e8d0/05e8/5530/559b/af43/infinity-war-poster-crop.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80)
 
  <!-- Adjust the width and height values as needed -->
-<img src="https://images.bauerhosting.com/legacy/media/61f3/e8d0/05e8/5530/559b/af43/infinity-war-poster-crop.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80" alt="Image Alt Text" width="300" height="300">
+<img src="https://images.bauerhosting.com/legacy/media/61f3/e8d0/05e8/5530/559b/af43/infinity-war-poster-crop.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80" alt="Image Alt Text" width="500" height="400">
 
 
 
