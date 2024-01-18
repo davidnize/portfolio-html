@@ -23,7 +23,7 @@ Welcome to my GitHub repository! Here, you'll find a collection of my favorite m
 ### 3. The Dark Knight (2008)
 *Director: Christopher Nolan*
 
-![The Dark Knight](insert_image_url_here)
+![The Dark Knight]([insert_image_url_here](https://images.app.goo.gl/NeMWPrLRwjqf3yvk8))
 
 *Description: The Dark Knight, featuring Heath Ledger's iconic performance as the Joker, is a gripping exploration of chaos and morality in Gotham City.*
 
