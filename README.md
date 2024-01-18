@@ -16,7 +16,7 @@ Welcome to my GitHub repository! Here, you'll find a collection of my favorite m
 ### 2.Predestination (2014)
 *Director: Christopher Nolan*
 
-![Predestination]([https://example.com/path/to/your/image.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rottentomatoes.com%2Fm%2Fpredestination&psig=AOvVaw2wayTmV4pIhUQfmEurwA7v&ust=1705658117787000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjR4e7V5oMDFQAAAAAdAAAAABAD))
+![Predestination](https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11111906_v_h9_bc.jpg)
 
 
 *Description: A mind-bending journey through dreams, reality, and the subconscious, Inception is a cinematic masterpiece that keeps you on the edge of your seat.*
