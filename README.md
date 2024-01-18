@@ -16,7 +16,7 @@ Welcome to my GitHub repository! Here, you'll find a collection of my favorite m
 ### 2. Inception (2010)
 *Director: Christopher Nolan*
 
-![Inception](insert_image_url_here)
+![Inception]([insert_image_url_here](https://images.app.goo.gl/2NPsmHnkNwDCEU666))
 
 *Description: A mind-bending journey through dreams, reality, and the subconscious, Inception is a cinematic masterpiece that keeps you on the edge of your seat.*
 
