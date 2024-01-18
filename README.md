@@ -9,12 +9,7 @@ Welcome to my GitHub repository! Here, you'll find a collection of my favorite m
 ### 1.Avengers: Infinity War (2018)
 *Director:  Anthony and Joe Russo*
 
-![Avengers: Infinity War](https://images.bauerhosting.com/legacy/media/61f3/e8d0/05e8/5530/559b/af43/infinity-war-poster-crop.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80)
-
- <!-- Adjust the width and height values as needed -->
 <img src="https://images.bauerhosting.com/legacy/media/61f3/e8d0/05e8/5530/559b/af43/infinity-war-poster-crop.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80" alt="Image Alt Text" width="500" height="400">
-
-
 
 
 ### Description: 
@@ -23,7 +18,8 @@ the Avengers and the Guardians of the Galaxy attempt to stop Thanos from collect
 ### 2.Predestination (2014)
 *Director: Christopher Nolan*
 
-![Predestination](https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11111906_v_h9_bc.jpg)
+<img src="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11111906_v_h9_bc.jpg" alt="Image Alt Text" width="500" height="400">
+
 
 
 ### Description:
