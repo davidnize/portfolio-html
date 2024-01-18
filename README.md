@@ -9,7 +9,7 @@ Welcome to my GitHub repository! Here, you'll find a collection of my favorite m
 ### 1.Avengers: Infinity War (2018)
 *Director: Frank Darabont*
 
-![Infinity war]((https://cdn.arstechnica.net/wp-content/uploads/2018/04/aveng-infinwar-logo-800x417.jpg))
+![Infinity war]([(https://cdn.arstechnica.net/wp-content/uploads/2018/04/aveng-infinwar-logo-800x417.jpg)](https://www.google.com/search?sca_esv=599405545&sxsrf=ACQVn08BiMpoXo--39dDfLP_NlxnJ1W1wg:1705569750612&q=infinity+war&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjwzP-4zuaDAxXPXEEAHSgUCzQQ0pQJegQIChAB&biw=1690&bih=938&dpr=2#imgrc=mf8FWeJ80EavnM))
 
 *Description: the Avengers and the Guardians of the Galaxy attempt to stop Thanos from collecting the six powerful Infinity Stones as part of his quest to kill half of all life in the universe.*
 
