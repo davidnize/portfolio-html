@@ -9,7 +9,7 @@ Welcome to my GitHub repository! Here, you'll find a collection of my favorite m
 ### 1.Avengers: Infinity War (2018)
 *Director:  Anthony and Joe Russo*
 
-<img src="https://images.bauerhosting.com/legacy/media/61f3/e8d0/05e8/5530/559b/af43/infinity-war-poster-crop.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80" alt="Infinity War Poster" width="500" height="400" style="border-radius: 50px;">
+<img src="https://images.bauerhosting.com/legacy/media/61f3/e8d0/05e8/5530/559b/af43/infinity-war-poster-crop.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80" alt="Infinity War Poster" width="500" height="400" style="border-radius: 500px;">
 
 ### Description: 
 the Avengers and the Guardians of the Galaxy attempt to stop Thanos from collecting the six powerful Infinity Stones as part of his quest to kill half of all life in the universe.*
