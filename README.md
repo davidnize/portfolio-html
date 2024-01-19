@@ -12,6 +12,8 @@ Welcome to my GitHub repository! Here, you'll find a collection of my favorite m
 <img src="https://images.bauerhosting.com/legacy/media/61f3/e8d0/05e8/5530/559b/af43/infinity-war-poster-crop.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80" alt="Infinity War Poster" width="500" height="400">
 <styles>
 img {
+  width: 200px;
+  height: 200px;
   border-radius: 50px;
 }
 </styles>
